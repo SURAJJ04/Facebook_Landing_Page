@@ -1,0 +1,81 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(247, 251, 255);
+}
+
+
+/*-------- Color's ------------*/
+
+.bg-color {
+    background-color: rgb(52, 52, 135);
+}
+.f-color{
+    color: rgb(52, 52, 135);
+}
+
+/* --------------------------- */
+
+
+
+
+
+/*---------- NavBar section ----------*/
+
+.bar-height {
+    height: 105px;
+}
+
+/* facebook logo style */
+.title-bar {
+    padding-top: 20px;
+    font-family: 'Carme', sans-serif;
+    font-weight: bolder;
+}
+
+/*input tags font size*/
+
+.form-fs {
+    font-size: 10px;
+}
+.btn-fs {
+    font-size: 12px;
+}
+.lable-fs {
+    font-size: 13px;
+}
+
+/* ----------------------------------- */
+
+
+
+
+/*----------- mid section -------------*/
+
+/* banner width */
+.img-w {
+    width: 700px;
+}
+
+/* banner text width */
+.b-text{
+    font-weight: bolder;
+    width: 400px;
+    margin-left: 20px;
+}
+
+/* Input tag font size  */
+.input-fs{
+    font-size: 14px;
+}
+
+/* Terms, Privacy Policy */
+.Policy-para{
+    font-size: 12px;
+}
+
+/* font size of button */
+.btn-fs{
+    font-size: 14px;
+}
+
+/* ----------------------------------- */
